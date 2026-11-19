@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ronaldo Yamada | YA SOLUTION
 
-<!--
-**ronaldoyamada/ronaldoyamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvo sites, sistemas web e automações. Na YA SOLUTION, nosso propósito é criar tecnologia para servir pessoas.
 
-Here are some ideas to get you started:
+## Projetos selecionados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Oli Idiomas
+
+Projeto de site para uma escola de idiomas. A página organiza a apresentação da escola e facilita o contato de quem quer saber mais sobre as aulas. O projeto inclui uma identidade visual própria e layout responsivo.
+
+### Raízes Japonesas
+
+Projeto de blog sobre cultura japonesa. O trabalho inclui a identidade visual, o layout editorial responsivo e a organização dos conteúdos para facilitar a navegação e a leitura.
+
+## Contato
+
+[Conheça a YA SOLUTION](https://yasolution.com.br)
